@@ -3,6 +3,7 @@ info:
   title: Slex Public Spot API
   description: |-
     OpenAPI Specifications for the Slex Public Spot API
+    <li><a href="https://slex-exchange.github.io/apidoc/">To view websocket documentation follow this link</a></li>
   version: '1.0'
 
 servers:
